@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------------------------
 |                                                                                                         |
 |                                                                                                         |
-|                                            UNIVERSIDADE DE AVEIRO	                                      |
+|                                            UNIVERSIDADE DE AVEIRO                                       |
 |                                                                                                         |
 |                               Mestrado em Engenharia de Automação Industrial                            |
 |                                                                                                         |
