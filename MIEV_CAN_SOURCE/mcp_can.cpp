@@ -853,8 +853,8 @@ uint8_t MCP_CAN::init_Mask(uint8_t num, uint32_t ulData)
 ** Function name:           init_Filt
 ** Descriptions:            Public function to set filter(s).
 *********************************************************************************************************/
-uint8_t MCP_CAN::init_Filt(uint8_t num, uint8_t ext, uint32_t ulData)
-{
+uint8_t MCP_CAN::init_Filt(uint8_t num, uint8_t ext, uint32_t ulData){
+   
     uint8_t res = MCP2515_OK;
 #if DEBUG_MODE
     printf("Starting to Set Filter!\r\n");

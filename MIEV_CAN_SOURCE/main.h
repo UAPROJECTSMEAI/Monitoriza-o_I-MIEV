@@ -14,5 +14,6 @@ typedef uint8_t byte;
 
 void inic_gpio(void);
 void inicia_spi(void);
+//void config_timer(void);
 
 #endif // MAIN_H
